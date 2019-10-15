@@ -148,5 +148,16 @@ namespace _4_en_raya
 
             turno = turno + 1;
         }
+        private void RevisarGanandor()
+        {
+            bool hay_ganador = false;
+
+            // Revisar si hay un 4 en raya diagonal
+            if ((boton11.Text == boton22.Text) && (boton22.Text == boton33.Text) && (boton33.Text == boton44.Text) && (!boton11.Enabled))
+            hay_ganador = true;
+            else if ((boton14.Text == boton23.Text) && (boton23.Text == boton32.Text) && (boton32.Text == boton41.Text) && (!boton11.Enabled))
+            hay_ganador = true;
+
+        }
     }
 }
