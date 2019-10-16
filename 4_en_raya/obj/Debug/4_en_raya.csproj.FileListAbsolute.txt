@@ -1,0 +1,19 @@
+C:\Users\Windows 10\source\repos\4-en-raya\4_en_raya\bin\Debug\4_en_raya.exe.config
+C:\Users\Windows 10\source\repos\4-en-raya\4_en_raya\bin\Debug\4_en_raya.exe
+C:\Users\Windows 10\source\repos\4-en-raya\4_en_raya\bin\Debug\4_en_raya.pdb
+C:\Users\Windows 10\source\repos\4-en-raya\4_en_raya\obj\Debug\4_en_raya.csprojAssemblyReference.cache
+C:\Users\Windows 10\source\repos\4-en-raya\4_en_raya\obj\Debug\_4_en_raya.Form1.resources
+C:\Users\Windows 10\source\repos\4-en-raya\4_en_raya\obj\Debug\_4_en_raya.Properties.Resources.resources
+C:\Users\Windows 10\source\repos\4-en-raya\4_en_raya\obj\Debug\4_en_raya.csproj.GenerateResource.cache
+C:\Users\Windows 10\source\repos\4-en-raya\4_en_raya\obj\Debug\4_en_raya.exe
+C:\Users\Windows 10\source\repos\4-en-raya\4_en_raya\obj\Debug\4_en_raya.pdb
+C:\Users\TOSHIBA\source\repos\4enraya\4EnRaya\4_en_raya\bin\Debug\4_en_raya.exe.config
+C:\Users\TOSHIBA\source\repos\4enraya\4EnRaya\4_en_raya\bin\Debug\4_en_raya.exe
+C:\Users\TOSHIBA\source\repos\4enraya\4EnRaya\4_en_raya\bin\Debug\4_en_raya.pdb
+C:\Users\TOSHIBA\source\repos\4enraya\4EnRaya\4_en_raya\obj\Debug\4_en_raya.csprojAssemblyReference.cache
+C:\Users\TOSHIBA\source\repos\4enraya\4EnRaya\4_en_raya\obj\Debug\_4_en_raya.Form1.resources
+C:\Users\TOSHIBA\source\repos\4enraya\4EnRaya\4_en_raya\obj\Debug\_4_en_raya.Properties.Resources.resources
+C:\Users\TOSHIBA\source\repos\4enraya\4EnRaya\4_en_raya\obj\Debug\4_en_raya.csproj.GenerateResource.cache
+C:\Users\TOSHIBA\source\repos\4enraya\4EnRaya\4_en_raya\obj\Debug\4_en_raya.csproj.CoreCompileInputs.cache
+C:\Users\TOSHIBA\source\repos\4enraya\4EnRaya\4_en_raya\obj\Debug\4_en_raya.exe
+C:\Users\TOSHIBA\source\repos\4enraya\4EnRaya\4_en_raya\obj\Debug\4_en_raya.pdb
